@@ -5,7 +5,7 @@
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m am definitely looking forward to collaborating with other passionate developers.
 - 🥅 My goals for 2021 is to Master React, Complete MERN Stack and Contribute to Open Source projects.
-- ⚡ Here's a fun fact about me. In my free time I love playing beach buggy with my kids and spending time with my wife.
+- ⚡ Here's a fun fact about me. In my free time I love playing beach buggy (a racing game on android) with my kids and spending time with my wife.
 
 ### Languages and Tools:
 
