@@ -1,6 +1,6 @@
 ### Hi there, I'm Darrin Levi Duncan 👋
 
-## I'm a Full Stack Web Developer who is passionate about using code to develop apps that people would love to use! 
+## I'm a Full Stack Web Developer who is passionate about developing apps people enjoy using! 
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m am definitely looking forward to collaborating with other passionate developers.
